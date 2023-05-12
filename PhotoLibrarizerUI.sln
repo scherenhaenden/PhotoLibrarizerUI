@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoLibrarizerUI", "PhotoLibrarizerUI\PhotoLibrarizerUI\PhotoLibrarizerUI.csproj", "{3E550342-223E-4BB2-843A-3631DDD66E24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoLibrarizerUI.Gtk", "PhotoLibrarizerUI\PhotoLibrarizerUI.Gtk\PhotoLibrarizerUI.Gtk.csproj", "{58874E89-0FAB-4212-81BB-57CBEE4AE4EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoLibrarizerUI.Mac", "PhotoLibrarizerUI\PhotoLibrarizerUI.Mac\PhotoLibrarizerUI.Mac.csproj", "{7EF9F540-EF44-4EF4-AC98-B1BE905694AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoLibrarizerUI.Wpf", "PhotoLibrarizerUI\PhotoLibrarizerUI.Wpf\PhotoLibrarizerUI.Wpf.csproj", "{CF49F450-1BFB-4421-A845-99DB30F8E321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E550342-223E-4BB2-843A-3631DDD66E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E550342-223E-4BB2-843A-3631DDD66E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E550342-223E-4BB2-843A-3631DDD66E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E550342-223E-4BB2-843A-3631DDD66E24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58874E89-0FAB-4212-81BB-57CBEE4AE4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58874E89-0FAB-4212-81BB-57CBEE4AE4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58874E89-0FAB-4212-81BB-57CBEE4AE4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58874E89-0FAB-4212-81BB-57CBEE4AE4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF9F540-EF44-4EF4-AC98-B1BE905694AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF9F540-EF44-4EF4-AC98-B1BE905694AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF9F540-EF44-4EF4-AC98-B1BE905694AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF9F540-EF44-4EF4-AC98-B1BE905694AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF49F450-1BFB-4421-A845-99DB30F8E321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF49F450-1BFB-4421-A845-99DB30F8E321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF49F450-1BFB-4421-A845-99DB30F8E321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF49F450-1BFB-4421-A845-99DB30F8E321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
